@@ -4,3 +4,6 @@
 [submodule "Geek For Geeks"]
 	path = Geek For Geeks
 	url = https://github.com/AbhinavGupta-012/Geek-For-Geeks.git
+[submodule "CSES"]
+	path = CSES
+	url = https://github.com/AbhinavGupta-012/CSES.git
