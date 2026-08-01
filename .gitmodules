@@ -13,3 +13,6 @@
 [submodule "HackerRank"]
 	path = HackerRank
 	url = https://github.com/AbhinavGupta-012/HackerRank.git
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/AbhinavGupta-012/LeetCode.git
