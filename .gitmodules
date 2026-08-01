@@ -10,3 +10,6 @@
 [submodule "CodeChef"]
 	path = CodeChef
 	url = https://github.com/AbhinavGupta-012/CodeChef.git
+[submodule "HackerRank"]
+	path = HackerRank
+	url = https://github.com/AbhinavGupta-012/HackerRank.git
