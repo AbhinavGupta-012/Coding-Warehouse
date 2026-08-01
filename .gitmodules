@@ -7,3 +7,6 @@
 [submodule "CSES"]
 	path = CSES
 	url = https://github.com/AbhinavGupta-012/CSES.git
+[submodule "CodeChef"]
+	path = CodeChef
+	url = https://github.com/AbhinavGupta-012/CodeChef.git
